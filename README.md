@@ -1,4 +1,4 @@
-# Nahuel Alejandro Oddo | Portafolio
+# 💼 Nahuel Alejandro Oddo | Portafolio
 
 ¡Hola! Soy Nahuel Alejandro Oddo, un apasionado museólogo y profesional de la informática que fusiona creatividad y tecnología para crear experiencias digitales competentes.
 

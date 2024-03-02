@@ -23,7 +23,7 @@ Innovador tecnológico y museólogo de corazón, exploro la intersección entre 
 
 ---
 
-Pueden verlo publicado en el siguiente enlace: [Nahuel Alejandro Oddo | Portfolio](https://nahueloddoportfolio.netlify.app/)
+**Pueden verlo publicado en el siguiente enlace**: [Nahuel Alejandro Oddo | Portfolio](https://nahueloddoportfolio.netlify.app/)
 
 ¡Gracias por visitar mi portafolio! Espero tener la oportunidad de colaborar contigo.
 

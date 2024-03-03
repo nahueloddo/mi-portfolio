@@ -18,7 +18,6 @@ Innovador tecnológico y museólogo de corazón, exploro la intersección entre 
 ¿Interesado en saber si encajo bien con tu equipo? ¡Conversemos!
 
 - **Correo Electrónico:** [nahueloddo@gmail.com]
-- **Teléfono:** [+54 11 2751-1908]
 - **Disponibilidad:** Full-Time (Tiempo completo)
 
 ---

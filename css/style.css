@@ -509,6 +509,10 @@ body {
     border-bottom: 1px solid #fff;
     padding-bottom: 3px;
 }
+.link-thumbnail:hover {
+	color:#f90505;
+	border-bottom: 1px solid #f90505;
+}
 /* Timeline background line */
 #about .img::before {
   content: "";

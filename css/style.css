@@ -506,12 +506,12 @@ body {
     color: #fff;
     line-height: 2em;
     text-decoration: none;
-    border-bottom: 1px solid #fff;
+    border-bottom: 2px solid #fff;
     padding-bottom: 3px;
 }
 .link-thumbnail:hover {
 	color:#f90505;
-	border-bottom: 1px solid #f90505;
+	border-bottom: 2px solid #f90505;
 }
 /* Timeline background line */
 #about .img::before {

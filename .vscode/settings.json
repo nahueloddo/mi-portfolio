@@ -1,5 +1,5 @@
+{
 "workbench.colorCustomizations": {
-    "[Tokyo Night]": {
         "foreground": "#959cbd",
         "panelTitle.activeBorder": "#3d59a1",
         "panelTitle.activeForeground": "#bdc7f0",
@@ -24,5 +24,6 @@
         "activityBar.foreground": "#bdc7f0",
         "activityBar.inactiveForeground": "#787c99",
         "gitDecoration.ignoredResourceForeground": "#696d87",
-    },
+
+}
 }
